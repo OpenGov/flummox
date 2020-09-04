@@ -32,7 +32,7 @@
     "koa": "~0.18.1",
     "koa-static": "~1.4.9",
     "nunjucks": "~1.2.0",
-    "react": "~0.13.1",
+    "react": "~15.6.2",
     "react-router": "~0.13.2",
     "react-style": "~0.5.1",
     "react-suitcss": "~1.1.1",
